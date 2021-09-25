@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\bin\Debug\WPF_Graident.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\bin\Debug\WPF_Graident.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\bin\Debug\WPF_Graident.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Graident\obj\Debug\WPF_Graident.pdb

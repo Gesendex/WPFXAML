@@ -1,0 +1,15 @@
+﻿<Window x:Class="EventsInMarkup.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EventsInMarkup"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="40">
+            <Rectangle x:Name="Rect1" Margin="30" Height="100" Fill="Cyan" MouseEnter="Rectangle_MouseEnter" MouseLeave="Rect1_MouseLeave"/>
+            <Rectangle x:Name="Rect2" Margin="30" Height="100" Fill="Cyan"/>
+        </StackPanel>
+    </Grid>
+</Window>

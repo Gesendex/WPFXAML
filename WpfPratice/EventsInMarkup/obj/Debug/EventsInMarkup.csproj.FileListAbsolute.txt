@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\bin\Debug\EventsInMarkup.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\bin\Debug\EventsInMarkup.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\bin\Debug\EventsInMarkup.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\EventsInMarkup\obj\Debug\EventsInMarkup.pdb
