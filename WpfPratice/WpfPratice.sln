@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Graident", "WPF_Graiden
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsInMarkup", "EventsInMarkup\EventsInMarkup.csproj", "{6053D824-E635-4319-8758-7FFF51B66FEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8Ball", "_8Ball\_8Ball.csproj", "{3071194C-C26E-4AD1-8E6D-158A2A1A2272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6053D824-E635-4319-8758-7FFF51B66FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6053D824-E635-4319-8758-7FFF51B66FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6053D824-E635-4319-8758-7FFF51B66FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3071194C-C26E-4AD1-8E6D-158A2A1A2272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3071194C-C26E-4AD1-8E6D-158A2A1A2272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3071194C-C26E-4AD1-8E6D-158A2A1A2272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3071194C-C26E-4AD1-8E6D-158A2A1A2272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
