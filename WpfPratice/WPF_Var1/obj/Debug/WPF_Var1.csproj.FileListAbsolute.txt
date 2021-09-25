@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\bin\Debug\WPF_Var1.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\bin\Debug\WPF_Var1.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\bin\Debug\WPF_Var1.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WpfPratice\WPF_Var1\obj\Debug\WPF_Var1.pdb
