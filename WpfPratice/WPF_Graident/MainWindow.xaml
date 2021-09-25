@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_Graident.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Graident"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="800">
+    <Grid>
+        <StackPanel Margin="0,15">
+            <Rectangle Fill="DarkCyan" Width="100" Height="100"/>
+
+        <Rectangle Width="100" Height="100" Margin="10">
+            <Rectangle.Fill>
+                <LinearGradientBrush>
+                    <GradientStop Color="Cyan" Offset="0"></GradientStop>
+                    <GradientStop Color="GreenYellow" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        </StackPanel>
+    </Grid>
+</Window>
