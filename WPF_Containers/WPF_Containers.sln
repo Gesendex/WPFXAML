@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_WrapPanel", "WPF_WrapPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_UniformGrid", "WPF_UniformGrid\WPF_UniformGrid.csproj", "{B99AB92A-4545-49D9-8D47-4559FFDD9360}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Canvas", "WPF_Canvas\WPF_Canvas.csproj", "{01BDE196-54C0-489E-B75A-54F462ADFDB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B99AB92A-4545-49D9-8D47-4559FFDD9360}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B99AB92A-4545-49D9-8D47-4559FFDD9360}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B99AB92A-4545-49D9-8D47-4559FFDD9360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BDE196-54C0-489E-B75A-54F462ADFDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BDE196-54C0-489E-B75A-54F462ADFDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BDE196-54C0-489E-B75A-54F462ADFDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BDE196-54C0-489E-B75A-54F462ADFDB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

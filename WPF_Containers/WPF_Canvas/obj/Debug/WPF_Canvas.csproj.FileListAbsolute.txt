@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\bin\Debug\WPF_Canvas.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\bin\Debug\WPF_Canvas.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\bin\Debug\WPF_Canvas.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_Canvas\obj\Debug\WPF_Canvas.pdb
