@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\bin\Debug\WPF_StackPanel.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\bin\Debug\WPF_StackPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\bin\Debug\WPF_StackPanel.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_StackPanel\obj\Debug\WPF_StackPanel.pdb

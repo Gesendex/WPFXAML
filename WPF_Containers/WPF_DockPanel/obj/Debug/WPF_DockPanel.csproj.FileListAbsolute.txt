@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\bin\Debug\WPF_DockPanel.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\bin\Debug\WPF_DockPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\bin\Debug\WPF_DockPanel.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_DockPanel\obj\Debug\WPF_DockPanel.pdb
