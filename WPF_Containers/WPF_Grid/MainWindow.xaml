@@ -6,7 +6,26 @@
         xmlns:local="clr-namespace:WPF_Grid"
         mc:Ignorable="d"
         Title="Контейнер Grid" Height="450" Width="800">
-    <Grid>
-        
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0"
+                   Padding="10" Margin="20" Background="LightCoral">
+            Grid.Row="0" Grid.Column="0"</TextBlock>
+        <TextBlock Grid.Row="0" Grid.Column="1"
+                   Padding="10" Margin="20" Background="LightCyan">
+            Grid.Row="0" Grid.Column="1"
+        </TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+                   Padding="10" Margin="20" Background="LightGreen">
+            Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+        </TextBlock>
     </Grid>
 </Window>
