@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\bin\Debug\WPF_WrapPanel.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\bin\Debug\WPF_WrapPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\bin\Debug\WPF_WrapPanel.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\WPF_WrapPanel\obj\Debug\WPF_WrapPanel.pdb
