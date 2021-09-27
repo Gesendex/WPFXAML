@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Grid", "WPF_Grid\WPF_Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_GridSize", "GridSize\WPF_GridSize.csproj", "{5C510523-7247-42D2-9A5B-5313C0CB7633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_StackPanel", "WPF_StackPanel\WPF_StackPanel.csproj", "{36D4734F-7D7A-4534-9E0B-809B5E96B5E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5C510523-7247-42D2-9A5B-5313C0CB7633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C510523-7247-42D2-9A5B-5313C0CB7633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C510523-7247-42D2-9A5B-5313C0CB7633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D4734F-7D7A-4534-9E0B-809B5E96B5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D4734F-7D7A-4534-9E0B-809B5E96B5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D4734F-7D7A-4534-9E0B-809B5E96B5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D4734F-7D7A-4534-9E0B-809B5E96B5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
