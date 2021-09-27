@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_InkCanvas", "WPF_InkCan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_GridSplitter", "WPF_GridSplitter\WPF_GridSplitter.csproj", "{DB575ADB-83C1-46EB-B954-AB44ACD1082F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Var1", "WPF_Var1\WPF_Var1.csproj", "{BC24120F-631A-4AFE-BAF8-10ACCF232A2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DB575ADB-83C1-46EB-B954-AB44ACD1082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB575ADB-83C1-46EB-B954-AB44ACD1082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB575ADB-83C1-46EB-B954-AB44ACD1082F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC24120F-631A-4AFE-BAF8-10ACCF232A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC24120F-631A-4AFE-BAF8-10ACCF232A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC24120F-631A-4AFE-BAF8-10ACCF232A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC24120F-631A-4AFE-BAF8-10ACCF232A2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
