@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\bin\Debug\GridSize.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\bin\Debug\GridSize.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\bin\Debug\GridSize.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Containers\GridSize\obj\Debug\GridSize.pdb
