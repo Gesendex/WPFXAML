@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseCapture", "MouseCaptur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDrop", "DragAndDrop\DragAndDrop.csproj", "{5DBF7994-3A0E-412D-A7F9-853921646867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var1", "Var1\Var1.csproj", "{82B03AD7-28BD-4315-8CDA-59239B544841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5DBF7994-3A0E-412D-A7F9-853921646867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBF7994-3A0E-412D-A7F9-853921646867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBF7994-3A0E-412D-A7F9-853921646867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B03AD7-28BD-4315-8CDA-59239B544841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B03AD7-28BD-4315-8CDA-59239B544841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B03AD7-28BD-4315-8CDA-59239B544841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B03AD7-28BD-4315-8CDA-59239B544841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
