@@ -1,0 +1,31 @@
+﻿<Window x:Class="Var3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TreeView>
+            <TreeViewItem Header="Заголовок 1">
+                <TreeViewItem Header ="Пункт 1"/>
+                <TreeViewItem Header ="Пункт 2"/>
+                <TreeViewItem Header ="Пункт 3"/>
+                <TreeViewItem Header ="Пункт 4"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Заголовок 2">
+                <TreeViewItem Header ="Пункт 5"/>
+                <TreeViewItem Header ="Пункт 6"/>
+                <TreeViewItem Header ="Пункт 7"/>
+                <TreeViewItem Header ="Пункт 8"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Заголовок 3">
+                <TreeViewItem Header ="Пункт 9"/>
+                <TreeViewItem Header ="Пункт 10"/>
+                <TreeViewItem Header ="Пункт 11"/>
+                <TreeViewItem Header ="Пункт 12"/>
+            </TreeViewItem>
+        </TreeView>
+    </Grid>
+</Window>

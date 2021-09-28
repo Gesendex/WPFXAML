@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\bin\Debug\TreeView.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\bin\Debug\TreeView.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\bin\Debug\TreeView.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\Var3.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\Var3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TreeView\obj\Debug\TreeView.pdb
