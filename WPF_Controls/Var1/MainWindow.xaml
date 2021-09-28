@@ -16,7 +16,11 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="2">
-            <ComboBox  Margin="40"/>
+            <ComboBox SelectedIndex="0"  Margin="40">
+                <ComboBoxItem Content="Пункт 1"/>
+                <ComboBoxItem Content="Пункт 2"/>
+                <ComboBoxItem Content="Пункт 3"/>
+            </ComboBox>
         </StackPanel>
 
         <GroupBox Header="RadioButtons" Grid.Row="0" Grid.Column="0" Margin="10">
