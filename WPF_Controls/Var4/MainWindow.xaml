@@ -1,0 +1,21 @@
+﻿<Window x:Class="Var4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+        <StackPanel HorizontalAlignment="Center" Width="200">
+            <DatePicker Name="FirstDP" IsDropDownOpen="True" SelectedDate="11/5/2021" SelectedDateFormat="Short" Margin="7,7,7,0"/>
+            <DatePicker Name="SecondDP" SelectedDate="12/5/2021" SelectedDateFormat="Long" Margin="7,7,7,0"/>
+            <TextBlock Text="{Binding ElementName=FirstDP, Path=SelectedDate}" Background="Wheat" Margin="7,7,7,0"/>
+            <TextBlock Text="{Binding ElementName=SecondDP, Path=SelectedDate}" Background="Wheat" Margin="7,7,7,0"/>
+
+            <Calendar Name="CalendCL" SelectedDate="12/5/2021" Margin="7,7,7,0"/>
+            <TextBlock Text="{Binding ElementName=CalendCL, Path=SelectedDate}" Background="Wheat" Margin="7,7,7,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

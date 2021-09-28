@@ -16,7 +16,10 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Menu Grid.Column="1">
-            <MenuItem Header="Пункт 1"/>
+            <MenuItem Header="Пункт 1">
+                <MenuItem Header="Подпункт 1"/>
+                <MenuItem Header="Подпункт 2"/>
+            </MenuItem>
             <MenuItem Header="Пункт 2"/>
             <MenuItem Header="Пункт 3"/>
             <MenuItem Header="Пункт 4"/>
@@ -27,7 +30,10 @@
             <MenuItem Header="Пункт 2"/>
             <MenuItem Header="Пункт 3"/>
             <MenuItem Header="Пункт 4"/>
-            <MenuItem Header="Пункт 5"/>
+            <MenuItem Header="Пункт 5">
+                <MenuItem Header="Подпункт 1"/>
+                <MenuItem Header="Подпункт 2"/>
+            </MenuItem>
         </Menu>
     </Grid>
 </Window>
