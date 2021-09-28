@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\bin\Debug\TextBox.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\bin\Debug\TextBox.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\bin\Debug\TextBox.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\TextBox\obj\Debug\TextBox.pdb
