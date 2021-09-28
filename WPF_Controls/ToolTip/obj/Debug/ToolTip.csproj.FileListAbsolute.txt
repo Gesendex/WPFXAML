@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\bin\Debug\ToolTip.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\bin\Debug\ToolTip.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\bin\Debug\ToolTip.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ToolTip\obj\Debug\ToolTip.pdb
