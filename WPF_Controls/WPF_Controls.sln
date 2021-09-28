@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMouseEvent", "WPFMouseEv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseCapture", "MouseCapture\MouseCapture.csproj", "{FE9ED7AE-12C1-45F8-A58C-3EB0F36BEF48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDrop", "DragAndDrop\DragAndDrop.csproj", "{5DBF7994-3A0E-412D-A7F9-853921646867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FE9ED7AE-12C1-45F8-A58C-3EB0F36BEF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9ED7AE-12C1-45F8-A58C-3EB0F36BEF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9ED7AE-12C1-45F8-A58C-3EB0F36BEF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBF7994-3A0E-412D-A7F9-853921646867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBF7994-3A0E-412D-A7F9-853921646867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBF7994-3A0E-412D-A7F9-853921646867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBF7994-3A0E-412D-A7F9-853921646867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
