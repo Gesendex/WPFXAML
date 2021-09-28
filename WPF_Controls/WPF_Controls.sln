@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageList", "ImageList\Imag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFocus", "WPFFocus\WPFFocus.csproj", "{3D50E592-4D2A-4907-A243-5C4037F59F90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbaddedFont", "EmbaddedFont\EmbaddedFont.csproj", "{B900CEB4-C31B-4C60-99C3-E02E4261479B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B900CEB4-C31B-4C60-99C3-E02E4261479B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B900CEB4-C31B-4C60-99C3-E02E4261479B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B900CEB4-C31B-4C60-99C3-E02E4261479B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B900CEB4-C31B-4C60-99C3-E02E4261479B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
