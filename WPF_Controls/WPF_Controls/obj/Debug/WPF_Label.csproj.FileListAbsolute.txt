@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\bin\Debug\WPF_Controls.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\bin\Debug\WPF_Controls.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\bin\Debug\WPF_Controls.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Label.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Label.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Label.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPF_Controls\obj\Debug\WPF_Controls.pdb

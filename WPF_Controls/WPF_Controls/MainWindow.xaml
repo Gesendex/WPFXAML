@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPF_Label.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Label"
+        mc:Ignorable="d"
+        Title="Label" Height="190" Width="300">
+    <StackPanel Margin="5">
+        <Label Target="{Binding ElementName=txtA}" Content="Выбор _X" />
+        <TextBox Name="txtA" />
+        <Label Target="{Binding ElementName=txtB}" Content="Выбор _Y" />
+        <TextBox Name="txtB" />
+        <Label HorizontalAlignment="Center" Margin="10" Content="Нажмите кнопку alt + &quot;X&quot; или alt + &quot;Y&quot;" />
+    </StackPanel>
+</Window>
