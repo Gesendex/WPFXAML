@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\bin\Debug\CheckBoxList.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\bin\Debug\CheckBoxList.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\bin\Debug\CheckBoxList.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\CheckBoxList\obj\Debug\CheckBoxList.pdb

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_Label
+namespace Label
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
