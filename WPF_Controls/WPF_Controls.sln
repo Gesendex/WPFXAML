@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popup", "Popup\Popup.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageList", "ImageList\ImageList.csproj", "{735AABC3-752F-4648-9857-5EF75FA7A29E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFocus", "WPFFocus\WPFFocus.csproj", "{3D50E592-4D2A-4907-A243-5C4037F59F90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D50E592-4D2A-4907-A243-5C4037F59F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
