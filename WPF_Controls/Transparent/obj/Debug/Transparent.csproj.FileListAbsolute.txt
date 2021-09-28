@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\bin\Debug\Transparent.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\bin\Debug\Transparent.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\bin\Debug\Transparent.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Transparent\obj\Debug\Transparent.pdb
