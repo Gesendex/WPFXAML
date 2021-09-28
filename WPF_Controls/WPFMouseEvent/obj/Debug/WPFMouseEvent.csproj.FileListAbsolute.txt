@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\bin\Debug\WPFMouseEvent.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\WPFMouseEvent\obj\Debug\WPFMouseEvent.pdb
