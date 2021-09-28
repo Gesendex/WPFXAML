@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolTip", "ToolTip\ToolTip.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popup", "Popup\Popup.csproj", "{74A0F89C-C597-408F-BCB7-DA941A902DF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageList", "ImageList\ImageList.csproj", "{735AABC3-752F-4648-9857-5EF75FA7A29E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{74A0F89C-C597-408F-BCB7-DA941A902DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74A0F89C-C597-408F-BCB7-DA941A902DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74A0F89C-C597-408F-BCB7-DA941A902DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735AABC3-752F-4648-9857-5EF75FA7A29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

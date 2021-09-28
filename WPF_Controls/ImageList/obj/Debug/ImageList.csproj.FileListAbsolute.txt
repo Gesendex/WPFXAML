@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\bin\Debug\ImageList.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\bin\Debug\ImageList.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\bin\Debug\ImageList.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\ImageList\obj\Debug\ImageList.pdb
