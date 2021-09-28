@@ -1,0 +1,15 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Выберите дату рождения" Margin="10,10,10,0"/>
+            <DatePicker Name="dpBirth" Margin="10,10,10,0" SelectedDateChanged="dpBirth_SelectedDateChanged"/>
+        </StackPanel>
+    </Grid>
+</Window>

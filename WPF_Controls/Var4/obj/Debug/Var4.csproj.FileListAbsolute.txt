@@ -12,3 +12,4 @@ D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Var4\obj\Debug\Var4.csproj.G
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Var4\obj\Debug\Var4.csproj.CoreCompileInputs.cache
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Var4\obj\Debug\Var4.exe
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Var4\obj\Debug\Var4.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Controls\Var4\obj\Debug\Var4.csproj.AssemblyReference.cache

@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
         <StackPanel HorizontalAlignment="Center" Width="200">
             <DatePicker Name="FirstDP" SelectedDate="11/5/2021" SelectedDateFormat="Short" Margin="7,7,7,0"/>
             <DatePicker Name="SecondDP" SelectedDate="12/5/2021" SelectedDateFormat="Long" Margin="7,7,7,0"/>
