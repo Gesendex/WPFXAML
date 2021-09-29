@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\bin\Debug\Var2.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\bin\Debug\Var2.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\bin\Debug\Var2.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\Var2\obj\Debug\Var2.pdb
