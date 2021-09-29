@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\bin\Debug\GlassEffect.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\bin\Debug\GlassEffect.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\bin\Debug\GlassEffect.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\GlassEffect\obj\Debug\GlassEffect.pdb
