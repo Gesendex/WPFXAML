@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\bin\Debug\SaveOpenFileDialogs.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\bin\Debug\SaveOpenFileDialogs.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\bin\Debug\SaveOpenFileDialogs.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\SaveOpenFileDialogs\obj\Debug\SaveOpenFileDialogs.pdb
