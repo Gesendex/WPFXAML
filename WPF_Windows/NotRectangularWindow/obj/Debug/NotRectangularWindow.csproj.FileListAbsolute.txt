@@ -1,0 +1,14 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\bin\Debug\NotRectangularWindow.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\bin\Debug\NotRectangularWindow.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\bin\Debug\NotRectangularWindow.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\NotRectangularWindow\obj\Debug\NotRectangularWindow.pdb
