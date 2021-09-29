@@ -1,0 +1,17 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\bin\Debug\DialogTypes.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\bin\Debug\DialogTypes.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\bin\Debug\DialogTypes.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\NewWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\NewWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\DialogTypes\obj\Debug\DialogTypes.pdb
