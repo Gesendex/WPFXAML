@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\bin\Debug\WindowPositionSave.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\bin\Debug\WindowPositionSave.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\bin\Debug\WindowPositionSave.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowPositionSave\obj\Debug\WindowPositionSave.pdb
