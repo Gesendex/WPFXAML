@@ -1,0 +1,16 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\bin\Debug\WindowOwnership.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\bin\Debug\WindowOwnership.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\bin\Debug\WindowOwnership.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\Window1.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\Window1.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowOwnership\obj\Debug\WindowOwnership.pdb
