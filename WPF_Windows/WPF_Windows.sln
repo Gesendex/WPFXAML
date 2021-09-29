@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotRectangularWindow2", "No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassEffect", "GlassEffect\GlassEffect.csproj", "{4AA9C10F-62B3-4006-9D15-556068CA3E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var1", "Var1\Var1.csproj", "{95698224-974C-4C7B-9417-3D0634082EF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4AA9C10F-62B3-4006-9D15-556068CA3E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA9C10F-62B3-4006-9D15-556068CA3E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA9C10F-62B3-4006-9D15-556068CA3E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95698224-974C-4C7B-9417-3D0634082EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95698224-974C-4C7B-9417-3D0634082EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95698224-974C-4C7B-9417-3D0634082EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95698224-974C-4C7B-9417-3D0634082EF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Var1.FileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var1"
+        mc:Ignorable="d"
+        Title="FileWindow" Height="200" Width="430">
+    <Grid>
+        <DockPanel  Margin="5">
+            <Button Width="180" VerticalAlignment="Center" Margin="5" Content="Выбрать фон" Click="Button_Click"/>
+        </DockPanel>
+    </Grid>
+</Window>
