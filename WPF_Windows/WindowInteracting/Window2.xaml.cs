@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace WindowInteracting
 {
     /// <summary>
-    /// Логика взаимодействия для NewWindow.xaml
+    /// Логика взаимодействия для Window2.xaml
     /// </summary>
-    public partial class NewWindow : Window, IInteractiveWindow
+    public partial class Window2 : Window, IInteractiveWindow
     {
-        public NewWindow()
+        public Window2()
         {
             InitializeComponent();
         }

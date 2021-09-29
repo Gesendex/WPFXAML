@@ -15,3 +15,5 @@ D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\W
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.exe
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.pdb
 D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\Window2.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\Window2.baml

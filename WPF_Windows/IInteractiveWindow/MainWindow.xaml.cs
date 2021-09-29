@@ -10,25 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WindowInteracting
+namespace IInteractiveWindow
 {
     /// <summary>
-    /// Логика взаимодействия для NewWindow.xaml
+    /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
-    public partial class NewWindow : Window, IInteractiveWindow
+    public partial class MainWindow : Window
     {
-        public NewWindow()
+        public MainWindow()
         {
             InitializeComponent();
         }
-        #region IInteractiveWindow Members
-        public void UpdateWindow(string message)
-        {
-            label1.Content = message;
-        }
-        #endregion
-
     }
 }

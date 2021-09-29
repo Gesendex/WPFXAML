@@ -24,6 +24,14 @@
                 Width="227" 
                 IsEnabled="False" 
                 Click="buttonUpdate_Click" />
+        <Button Content="Кнопка 2" 
+                Height="23" 
+                HorizontalAlignment="Left" 
+                Margin="112,0,0,9" 
+                Name="button2" 
+                VerticalAlignment="Bottom" 
+                Width="227" 
+                Click="button2_Click" />
     </Grid>
 </Window>
 
