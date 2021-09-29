@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowPosition", "WindowPos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowPositionSave", "WindowPositionSave\WindowPositionSave.csproj", "{12D83265-2D9D-486C-96F2-F2876F52291B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowInteracting", "WindowInteracting\WindowInteracting.csproj", "{1894C2FB-177A-4DB5-873F-3F5494CD85AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{12D83265-2D9D-486C-96F2-F2876F52291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D83265-2D9D-486C-96F2-F2876F52291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D83265-2D9D-486C-96F2-F2876F52291B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1894C2FB-177A-4DB5-873F-3F5494CD85AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1894C2FB-177A-4DB5-873F-3F5494CD85AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1894C2FB-177A-4DB5-873F-3F5494CD85AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1894C2FB-177A-4DB5-873F-3F5494CD85AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

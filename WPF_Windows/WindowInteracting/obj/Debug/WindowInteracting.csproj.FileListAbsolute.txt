@@ -1,0 +1,17 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\NewWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\bin\Debug\WindowInteracting.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\bin\Debug\WindowInteracting.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\bin\Debug\WindowInteracting.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\NewWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\WPF_Windows\WindowInteracting\obj\Debug\WindowInteracting.csproj.AssemblyReference.cache
