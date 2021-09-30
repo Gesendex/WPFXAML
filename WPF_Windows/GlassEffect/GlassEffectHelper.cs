@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -8,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Interop;
 using System.Windows.Media;
-
+using System.Drawing;
 namespace GlassEffect
 {
     class GlassEffectHelper
@@ -33,7 +32,7 @@ namespace GlassEffect
         public static Margins GetDpiAdjustedMargins(IntPtr windowHandle, int left, int right, int top, int bottom)
         {
             // Получение системного DPI
-            Graphics desktop = System.Drawing.Graphics.FromHwnd(windowHandle);
+            Graphics desktop = Graphics.FromHwnd(windowHandle);
             float DesktopDpiX = desktop.DpiX;
             float DesktopDpiY = desktop.DpiY;
             // Инициализируем структуру.
