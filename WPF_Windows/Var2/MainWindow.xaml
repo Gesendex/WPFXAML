@@ -8,10 +8,10 @@
         Title="Var2" Height="500" Width="630">
     <Grid>
         <DockPanel  Margin="5">
-            <Button Width="180" DockPanel.Dock="Top" VerticalAlignment="Center" Margin="5" Content="Открыть файл" Click="Button_Click"/>
-            <Button Width="180" DockPanel.Dock="Top" VerticalAlignment="Center" Margin="5" Content="Сохранить Файл" Click="Button_Click_1" />
+            <Button Width="180" VerticalAlignment="Center" Margin="5" Content="Открыть файл" Click="Button_Click"/>
+            <Button Width="180" VerticalAlignment="Center" Margin="5" Content="Сохранить Файл" Click="Button_Click_1" />
 
-            <RichTextBox Name="rtbText" DockPanel.Dock="Bottom"/>
+            <!--<RichTextBox Name="rtbText" DockPanel.Dock="Bottom"/>-->
         </DockPanel>
     </Grid>
 </Window>

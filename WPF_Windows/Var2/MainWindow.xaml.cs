@@ -1,6 +1,8 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -22,6 +24,7 @@ namespace Var2
     /// </summary>
     public partial class MainWindow : Window
     {
+        Bitmap bitmap;
         public MainWindow()
         {
             InitializeComponent();
@@ -29,27 +32,40 @@ namespace Var2
         
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            /* OpenFileDialog fileDialog = new OpenFileDialog();
+
+             if ((bool)fileDialog.ShowDialog())
+             {
+                 using (StreamReader fileStream = new StreamReader(fileDialog.FileName))
+                 {
+                     rtbText.AppendText(fileStream.ReadToEnd());
+                 }
+             }*/
             OpenFileDialog fileDialog = new OpenFileDialog();
 
             if ((bool)fileDialog.ShowDialog())
             {
-                using (StreamReader fileStream = new StreamReader(fileDialog.FileName))
-                {
-                    rtbText.AppendText(fileStream.ReadToEnd());
-                }
+                Background = new ImageBrush(new BitmapImage(new Uri(fileDialog.FileName)));
+                bitmap = new Bitmap(fileDialog.FileName);
             }
+            
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            /* SaveFileDialog saveFileDialog = new SaveFileDialog();
+             if ((bool)saveFileDialog.ShowDialog())
+             {
+                 using (StreamWriter fileStream = new StreamWriter(saveFileDialog.FileName))
+                 {
+                     TextRange doc = new TextRange(rtbText.Document.ContentStart, rtbText.Document.ContentEnd);
+                     fileStream.Write(doc.Text);
+                 }
+             }*/
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             if ((bool)saveFileDialog.ShowDialog())
             {
-                using (StreamWriter fileStream = new StreamWriter(saveFileDialog.FileName))
-                {
-                    TextRange doc = new TextRange(rtbText.Document.ContentStart, rtbText.Document.ContentEnd);
-                    fileStream.Write(doc.Text);
-                }
+                bitmap.Save(saveFileDialog.FileName);
             }
         }
     }
