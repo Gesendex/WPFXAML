@@ -43,7 +43,7 @@ namespace WindowInteracting
         private void buttonUpdate_Click(object sender, RoutedEventArgs e)
         {
             // Вызываем пользовательский метод, который обновляет значения Label в дочернем окне.
-            _window.UpdateWindow("Hello world");
+            _window.UpdateWindow("Hello world dadada");
             buttonUpdate.IsEnabled = false;
         }
         private void button2_Click(object sender, RoutedEventArgs e)
