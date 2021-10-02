@@ -58,6 +58,14 @@ namespace CarService.Pages
         {
             var services = App.Context.Services.ToList();
 
+            if(ComboSortBy.SelectedIndex == 0)
+            {
+                services = services.OrderBy(p => p.CostWithDiscount).ToList();
+            }
+            else
+            {
+                services = services.OrderByDescending(p => p.CostWithDiscount).ToList();
+            }
             
             if (ComboDicount.SelectedIndex == 1)
             {
