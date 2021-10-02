@@ -9,6 +9,39 @@
       Title="Добавление услуг">
 
     <Grid>
-        
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Название*"/>
+                    <TextBox  Name="TBoxTitle"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Стоимость*"/>
+                    <TextBox  Name="TBoxCost"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Длит-сть (мин)*"/>
+                    <TextBox  Name="TBoxDuration"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Описание"/>
+                    <TextBox  Name="TBoxDescription" TextWrapping="Wrap" Height="100"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Скидка"/>
+                    <TextBox  Name="TBoxDiscount"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Border Margin="5" Width="200" Height="175" BorderThickness="1"
+                        BorderBrush="{StaticResource ColorAccent}">
+                    <Image Name="ImageService"></Image>
+                </Border>
+                <Button Name="BtnSelectImage" Click="BtnSelectImage_Click" Content="Выбрать изображение" Width=" 200"/>
+                <Button Name="BtnSave" Click="BtnSave_Click" Content="Сохранить" Width=" 200"/>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Page>

@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:CarService.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Список услуг">
+      Title="Список услуг" Loaded="Page_Loaded">
 
     <Grid Background="{StaticResource ColorPrimary}">
         <Grid.RowDefinitions>

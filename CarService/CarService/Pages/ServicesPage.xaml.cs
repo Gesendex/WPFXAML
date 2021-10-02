@@ -34,14 +34,19 @@ namespace CarService.Pages
 
         private void BtnEdit_Click(object sender, RoutedEventArgs e)
         {
-
+            var button = sender as Button;
+            var currentSevice = button.DataContext as Entities.Service;
+            NavigationService.Navigate(new AddOrEditServicePage(currentSevice));
         }
 
         private void BtnDelete_Click(object sender, RoutedEventArgs e)
         {
 
         }
-
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            UpdateServices();
+        }
         private void ComboSortBy_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             UpdateServices();
