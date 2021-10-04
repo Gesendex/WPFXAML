@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +23,7 @@ namespace CarService.Pages
     public partial class AddOrEditServicePage : Page
     {
         private Entities.Service _currentService = null;
+        private byte[] _mainImageData;
         public AddOrEditServicePage()
         {
             InitializeComponent();
@@ -34,11 +37,11 @@ namespace CarService.Pages
             TBoxCost.Text = _currentService.Cost.ToString("N2");
             TBoxDuration.Text = (_currentService.DurationInSeconds / 60).ToString();
             TBoxDescription.Text = _currentService.Description;
-            if(_currentService.Discount > 0)
+            if (_currentService.Discount > 0)
             {
                 TBoxDiscount.Text = (_currentService.Discount.Value * 100).ToString();
             }
-            if(_currentService.MainImage !=null)
+            if (_currentService.MainImage != null)
             {
                 ImageService.Source = new ImageSourceConverter().ConvertFrom(_currentService.MainImage) as ImageSource;
             }
@@ -46,7 +49,13 @@ namespace CarService.Pages
 
         private void BtnSelectImage_Click(object sender, RoutedEventArgs e)
         {
-
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "Image | *.png; *.jpg; *.jpeg";
+            if (ofd.ShowDialog()==true)
+            {
+                _mainImageData = File.ReadAllBytes(ofd.FileName);
+                ImageService.Source = new ImageSourceConverter().ConvertFrom(_mainImageData) as ImageSource;
+            }
         }
 
         private void BtnSave_Click(object sender, RoutedEventArgs e)
@@ -66,7 +75,8 @@ namespace CarService.Pages
                         Cost = decimal.Parse(TBoxCost.Text),
                         DurationInSeconds = int.Parse(TBoxDuration.Text) * 60,
                         Discount = string.IsNullOrWhiteSpace(TBoxDiscount.Text) ? 0 : double.Parse(TBoxDiscount.Text) / 100,
-                        Description = TBoxDescription.Text
+                        Description = TBoxDescription.Text,
+                        MainImage = _mainImageData
                     };
                     App.Context.Services.Add(service);
                     App.Context.SaveChanges();
@@ -78,6 +88,10 @@ namespace CarService.Pages
                     _currentService.Cost = decimal.Parse(TBoxCost.Text);
                     _currentService.DurationInSeconds = int.Parse(TBoxDuration.Text) * 60;
                     _currentService.Discount = string.IsNullOrWhiteSpace(TBoxDiscount.Text) ? 0 : double.Parse(TBoxDiscount.Text) / 100;
+                    if (_mainImageData!=null)
+                    {
+                        _currentService.MainImage = _mainImageData;
+                    }
                     _currentService.Description = TBoxDescription.Text;
                     App.Context.SaveChanges();
                     //Сообщение о редактировании
