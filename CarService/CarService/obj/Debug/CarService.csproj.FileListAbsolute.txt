@@ -53,3 +53,5 @@ C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\C
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\CarService.csproj.CopyComplete
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\CarService.exe
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.baml

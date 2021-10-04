@@ -114,6 +114,9 @@
     <Compile Include="Entities\ProductSale.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Entities\Role.cs">
+      <DependentUpon>CarServiceModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Entities\Service.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>
@@ -121,7 +124,13 @@
     <Compile Include="Entities\ServicePhoto.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Entities\sysdiagram.cs">
+      <DependentUpon>CarServiceModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Entities\Tag.cs">
+      <DependentUpon>CarServiceModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\User.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
@@ -129,6 +138,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Pages\AddOrEditServicePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\LoginPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -140,6 +153,9 @@
   <ItemGroup>
     <Compile Include="Pages\AddOrEditServicePage.xaml.cs">
       <DependentUpon>AddOrEditServicePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoginPage.xaml.cs">
+      <DependentUpon>LoginPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\ServicesPage.xaml.cs">
       <DependentUpon>ServicesPage.xaml</DependentUpon>

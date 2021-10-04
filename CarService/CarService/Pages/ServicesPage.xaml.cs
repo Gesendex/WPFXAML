@@ -23,6 +23,14 @@ namespace CarService.Pages
         public ServicesPage()
         {
             InitializeComponent();
+            if (App.CurrentUser.RoleId == 1)
+            {
+                BtnCreateService.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                BtnCreateService.Visibility = Visibility.Collapsed;
+            }
             ComboSortBy.SelectedIndex = 0;
             ComboDicount.SelectedIndex = 0;
         }

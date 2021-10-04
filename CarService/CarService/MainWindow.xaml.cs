@@ -23,7 +23,7 @@ namespace CarService
         public MainWindow()
         {
             InitializeComponent();
-            FrameMain.Navigate(new Pages.ServicesPage());
+            FrameMain.Navigate(new Pages.LoginPage());
         }
 
         private void BtnBack_Click(object sender, RoutedEventArgs e)

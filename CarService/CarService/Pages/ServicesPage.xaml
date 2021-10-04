@@ -72,9 +72,9 @@
 
                                 <StackPanel Orientation="Horizontal">
                                     <Button Content="Редактировать" Name="BtnEdit"
-                                            Click="BtnEdit_Click"/>
+                                            Click="BtnEdit_Click" Visibility="{Binding AdminControlsVisibility}"/>
                                     <Button Content="Удалить" Name="BtnDelete"
-                                            Click="BtnDelete_Click"/>
+                                            Click="BtnDelete_Click" Visibility="{Binding AdminControlsVisibility}"/>
                                 </StackPanel>
                             </StackPanel>
                         </Grid>
