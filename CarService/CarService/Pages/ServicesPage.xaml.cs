@@ -41,7 +41,15 @@ namespace CarService.Pages
 
         private void BtnDelete_Click(object sender, RoutedEventArgs e)
         {
+            var button = sender as Button;
+            var currentService = button.DataContext as Entities.Service;
+            if(MessageBox.Show($"Вы уверены, что хотите удалить услугу: {currentService.Title}?","Внимание", MessageBoxButton.YesNo,MessageBoxImage.Warning) == MessageBoxResult.Yes)
+            {
+                App.Context.Services.Remove(currentService);
+                App.Context.SaveChanges();
+                UpdateServices();
 
+            }
         }
         private void Page_Loaded(object sender, RoutedEventArgs e)
         {

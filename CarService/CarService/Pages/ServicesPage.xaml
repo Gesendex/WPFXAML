@@ -16,8 +16,8 @@
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1">
-            <ComboBox Name="ComboSortBy" SelectionChanged="ComboSortBy_SelectionChanged">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Row="1">
+            <ComboBox Name="ComboSortBy"  SelectionChanged="ComboSortBy_SelectionChanged">
                 <ComboBoxItem Content="По возрастанию цены"/>
                 <ComboBoxItem Content="По убыванию цены"/>
             </ComboBox>
