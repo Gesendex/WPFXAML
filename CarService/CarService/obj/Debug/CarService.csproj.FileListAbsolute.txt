@@ -1,5 +1,4 @@
 D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\CarService.csproj.AssemblyReference.cache
-D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\Styles\Style.baml
 D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\MainWindow.g.cs
 D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\App.g.cs
 D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\CarService_Content.g.cs
@@ -55,3 +54,5 @@ C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\C
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\CarService.pdb
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.g.cs
 C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\Pages\LoginPage.baml

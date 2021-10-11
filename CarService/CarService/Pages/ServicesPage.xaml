@@ -42,8 +42,8 @@
             </ListView.ItemsPanel>
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <Border BorderBrush="{StaticResource ColorAccent}">
-                        <Grid Background="{Binding BackColor}">
+                    <Border BorderBrush="{StaticResource ColorAccent}" CornerRadius="15" Background="{Binding BackColor}" Padding="5">
+                        <Grid >
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
                                 <ColumnDefinition Width="*"/>

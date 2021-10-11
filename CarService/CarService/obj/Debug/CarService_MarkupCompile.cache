@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\obj\Debug\
+D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\obj\Debug\
 CarService
 none
 false
 DEBUG;TRACE
-C:\Users\u413\source\repos\GireevTimur\WPFXAML\CarService\CarService\App.xaml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\CarService\CarService\App.xaml
 4-610532437
 2-1616761373
 26-257454058
-18-90279264
+18-451351003
 MainWindow.xaml;Pages\AddOrEditServicePage.xaml;Pages\LoginPage.xaml;Pages\ServicesPage.xaml;
 
 False
