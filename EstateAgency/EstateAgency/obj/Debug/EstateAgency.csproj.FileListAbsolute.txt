@@ -29,3 +29,5 @@ D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views
 D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views\ManageRealEstateWindow.baml
 D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views\ManageSuppliesWindow.g.cs
 D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views\ManageSuppliesWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views\CreateAgentOrClient.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\obj\Debug\Views\CreateAgentOrClient.baml

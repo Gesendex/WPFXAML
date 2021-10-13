@@ -95,6 +95,7 @@
     <Compile Include="PersonSet_Client.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
+    <Compile Include="PersonType.cs" />
     <Compile Include="RealEstateFilterSet.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
@@ -124,6 +125,9 @@
     <Compile Include="SupplySet.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
+    <Compile Include="Views\CreateAgentOrClient.xaml.cs">
+      <DependentUpon>CreateAgentOrClient.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\ManageAgentWindow.xaml.cs">
       <DependentUpon>ManageAgentWindow.xaml</DependentUpon>
     </Compile>
@@ -148,6 +152,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Views\CreateAgentOrClient.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\ManageAgentWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

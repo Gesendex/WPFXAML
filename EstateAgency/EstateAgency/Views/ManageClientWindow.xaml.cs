@@ -40,5 +40,61 @@ namespace EstateAgency.Views
                 DgSupplies.ItemsSource = currClient.SupplySets.ToList();
             }
         }
+
+        private void BtnDelete_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                App.Context.PersonSet_Client.Remove(LbClients.SelectedItem as PersonSet_Client);
+                App.Context.SaveChanges();
+                Update();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Не удалось удалить клиента так как присутствую связанные с ним записи в других таблицах");
+            }
+        }
+        private void Update()
+        {
+            LbClients.ItemsSource = App.Context.PersonSet_Client.ToList();
+        }
+        private void BtnNew_Click(object sender, RoutedEventArgs e)
+        {
+            Window window = new CreateAgentOrClient(PersonType.Client);
+            window.Closed += (s, ev) => Update();
+            window.Show();
+        }
+
+        private void BtnEdit_Click(object sender, RoutedEventArgs e)
+        {
+            if (BtnEdit.Content as string == "Edit")
+            {
+                BtnEdit.Content = "Save";
+                foreach (var controll in SpEdit.Children)
+                {
+                    if (controll is TextBox)
+                        (controll as TextBox).IsReadOnly = false;
+                }
+            }
+            else
+            {
+                BtnEdit.Content = "Edit";
+                foreach (var controll in SpEdit.Children)
+                {
+                    if (controll is TextBox)
+                        (controll as TextBox).IsReadOnly = true;
+                }
+
+                var curClient = App.Context.PersonSet_Client.Find((LbClients.SelectedItem as PersonSet_Client).Id);
+                curClient.Email = TbEmail.Text;
+                curClient.Phone = TbPhone.Text;
+                curClient.PersonSet.LastName = TbLastName.Text;
+                curClient.PersonSet.MiddleName = TbMiddleName.Text;
+                curClient.PersonSet.FirstName = TbFirstName.Text;
+                App.Context.SaveChanges();
+                Update();
+            }
+        }
     }
 }

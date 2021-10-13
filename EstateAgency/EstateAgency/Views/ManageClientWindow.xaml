@@ -21,22 +21,22 @@
                 </ListBox.ItemTemplate>
             </ListBox>
             <StackPanel Orientation="Horizontal">
-                <Button Name="BtnNew" Content="New" Style="{StaticResource ButtonAgent}"/>
-                <Button Name="BtnDelete" Content="Delete" Style="{StaticResource ButtonAgent}"/>
+                <Button Name="BtnNew" Content="New" Style="{StaticResource ButtonAgent}" Click="BtnNew_Click"/>
+                <Button Name="BtnDelete" Content="Delete" Style="{StaticResource ButtonAgent}" Click="BtnDelete_Click"/>
             </StackPanel>
         </StackPanel>
-        <StackPanel Width="150" Grid.Column="1">
+        <StackPanel Width="150" Grid.Column="1" Name="SpEdit">
             <TextBlock Text="First name" Style="{StaticResource TextBlockSPEl}"/>
-            <TextBox x:Name="TbFirstName" Style="{StaticResource TextBoxSPEl}"/>
+            <TextBox x:Name="TbFirstName" Style="{StaticResource TextBoxSPEl}" IsReadOnly="True"/>
             <TextBlock Text="Middle name" Style="{StaticResource TextBlockSPEl}"/>
-            <TextBox x:Name="TbMiddleName"  Style="{StaticResource TextBoxSPEl}"/>
+            <TextBox x:Name="TbMiddleName"  Style="{StaticResource TextBoxSPEl}" IsReadOnly="True"/>
             <TextBlock Text="Last name" Style="{StaticResource TextBlockSPEl}"/>
-            <TextBox x:Name="TbLastName"  Style="{StaticResource TextBoxSPEl}"/>
+            <TextBox x:Name="TbLastName"  Style="{StaticResource TextBoxSPEl}" IsReadOnly="True"/>
             <TextBlock Text="Phone" Style="{StaticResource TextBlockSPEl}"/>
-            <TextBox x:Name="TbPhone"  Style="{StaticResource TextBoxSPEl}"/>
+            <TextBox x:Name="TbPhone"  Style="{StaticResource TextBoxSPEl}" IsReadOnly="True"/>
             <TextBlock Text="Email" Style="{StaticResource TextBlockSPEl}"/>
-            <TextBox x:Name="TbEmail"  Style="{StaticResource TextBoxSPEl}"/>
-            <Button x:Name="BtnEdit" Content="Edit" Style="{StaticResource ButtonSPEl}"/>
+            <TextBox x:Name="TbEmail"  Style="{StaticResource TextBoxSPEl}" IsReadOnly="True"/>
+            <Button x:Name="BtnEdit" Content="Edit" Style="{StaticResource ButtonSPEl}" Click="BtnEdit_Click"/>
         </StackPanel>
         <StackPanel Grid.Column="2" Margin=" 10">
             <TextBlock Text="Demands" Style="{StaticResource TextBlockSPEl}"/>

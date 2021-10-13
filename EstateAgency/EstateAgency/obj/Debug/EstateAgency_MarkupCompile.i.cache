@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\Projects\C#\Учеба\TRPO\WPFXAML\EstateAgency\EstateAgency\App.xaml
-5-1842390670
+6462433301
 8765585422
-30119722364
+32-19617261
 18-522776545
-MainWindow.xaml;Views\ManageAgentWindow.xaml;Views\ManageClientWindow.xaml;Views\ManageRealEstateWindow.xaml;Views\ManageSuppliesWindow.xaml;
+MainWindow.xaml;Views\CreateAgentOrClient.xaml;Views\ManageAgentWindow.xaml;Views\ManageClientWindow.xaml;Views\ManageRealEstateWindow.xaml;Views\ManageSuppliesWindow.xaml;
 
 True
 

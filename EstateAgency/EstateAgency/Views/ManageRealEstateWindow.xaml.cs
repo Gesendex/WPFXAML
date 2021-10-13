@@ -25,8 +25,6 @@ namespace EstateAgency.Views
             InitializeComponent();
             LbRealEstate.ItemsSource = App.Context.RealEstateSets.ToList();
             LbRealEstate.SelectedIndex = 0;
-            
-            
         }
 
         private void BtnNewApartment_Click(object sender, RoutedEventArgs e)

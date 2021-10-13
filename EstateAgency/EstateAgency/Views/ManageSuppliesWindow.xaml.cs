@@ -23,7 +23,6 @@ namespace EstateAgency.Views
         {
             InitializeComponent();
             DgSupplies.ItemsSource = App.Context.SupplySets.ToList();
-            DgSupplies.SelectedIndex = 0;
             CbAgent.ItemsSource = App.Context.PersonSet_Agent.ToList(); 
             CbClient.ItemsSource = App.Context.PersonSet_Client.ToList();
         }
@@ -50,7 +49,7 @@ namespace EstateAgency.Views
             {
                 TbTotalArea.Text = curSupp.RealEstateSet.RealEstateSet_Land.TotalArea.ToString();
             }
-            TbAgent.Text = curSupp.PersonSet_Agent.PersonSet.FullName;
+            TbAgent.Text =  curSupp.PersonSet_Agent != null ?  curSupp.PersonSet_Agent.PersonSet.FullName : string.Empty;
             TbClient.Text = curSupp.PersonSet_Client.PersonSet.FullName;
             TbPrice.Text = curSupp.Price.ToString();
             TbRealEstate.Text = curSupp.RealEstateSet.Info;
