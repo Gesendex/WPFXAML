@@ -6,14 +6,14 @@
     <edmx:Diagrams>
       <Diagram DiagramId="859a4e487b9e4f5582121af0a323f5db" Name="Diagram1">
         <EntityTypeShape EntityType="restateModel.DealSet" Width="1.5" PointX="8.25" PointY="6.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="restateModel.DemandSet" Width="1.5" PointX="6" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="restateModel.DemandSet" Width="1.5" PointX="1.75" PointY="15.375" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.PersonSet" Width="1.5" PointX="1.5" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.PersonSet_Agent" Width="1.5" PointX="5.375" PointY="1.25" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.PersonSet_Client" Width="1.5" PointX="3.75" PointY="11.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet" Width="1.5" PointX="3.75" PointY="16.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet_ApartmentFilter" Width="1.5" PointX="6" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet" Width="1.5" PointX="11.875" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet_ApartmentFilter" Width="1.5" PointX="13.625" PointY="13.625" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.RealEstateFilterSet_HouseFilter" Width="1.5" PointX="6" PointY="20.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet_LandFilter" Width="1.5" PointX="6" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="restateModel.RealEstateFilterSet_LandFilter" Width="1.5" PointX="14.125" PointY="20.25" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.RealEstateSet" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.RealEstateSet_Apartment" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
         <EntityTypeShape EntityType="restateModel.RealEstateSet_House" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />

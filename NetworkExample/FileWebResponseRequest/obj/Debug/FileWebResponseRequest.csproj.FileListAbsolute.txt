@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\bin\Debug\FileWebResponseRequest.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\bin\Debug\FileWebResponseRequest.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\bin\Debug\FileWebResponseRequest.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\FileWebResponseRequest\obj\Debug\FileWebResponseRequest.pdb

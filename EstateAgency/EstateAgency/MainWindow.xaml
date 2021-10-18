@@ -13,7 +13,7 @@
             <Button Content="Manage clients" Name="BtnClient" Click="BtnClient_Click" Style="{StaticResource ButtonMenu}" />
             <Button Content="Manage real estate" Name="BtnRealEstate" Click="BtnRealEstate_Click" Style="{StaticResource ButtonMenu}"/>
             <Button Content="Manage supplies" Name="BtnSupplies" Click="BtnSupplies_Click" Style="{StaticResource ButtonMenu}"/>
-            <Button Content="Manage demands" Style="{StaticResource ButtonMenu}"/>
+            <Button Content="Manage demands" Name="BtnDemands" Click="BtnDemands_Click"  Style="{StaticResource ButtonMenu}"/>
             <Button Content="Manage deals" Style="{StaticResource ButtonMenu}"/>
         </StackPanel>
     </Grid>

@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\bin\Debug\DNSExample.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\bin\Debug\DNSExample.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\bin\Debug\DNSExample.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DNSExample\obj\Debug\DNSExample.pdb

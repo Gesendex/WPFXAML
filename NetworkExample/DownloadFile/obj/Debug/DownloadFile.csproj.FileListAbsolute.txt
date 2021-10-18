@@ -1,0 +1,15 @@
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\bin\Debug\DownloadFile.exe.config
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\bin\Debug\DownloadFile.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\bin\Debug\DownloadFile.pdb
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.csproj.AssemblyReference.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\App.g.cs
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile_MarkupCompile.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile_MarkupCompile.lref
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\MainWindow.baml
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.g.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.exe
+D:\Projects\C#\Учеба\TRPO\WPFXAML\NetworkExample\DownloadFile\obj\Debug\DownloadFile.pdb

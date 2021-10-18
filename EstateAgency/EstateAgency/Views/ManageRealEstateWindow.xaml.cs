@@ -23,28 +23,39 @@ namespace EstateAgency.Views
         public ManageRealEstateWindow()
         {
             InitializeComponent();
-            LbRealEstate.ItemsSource = App.Context.RealEstateSets.ToList();
+            Update();
             LbRealEstate.SelectedIndex = 0;
         }
-
+        private void Update()
+        {
+            LbRealEstate.ItemsSource = App.Context.RealEstateSets.ToList();
+        }
         private void BtnNewApartment_Click(object sender, RoutedEventArgs e)
         {
-
+            Window window = new CreateRealEstateWindow(EstateType.Apartment);
+            window.Closed += (s, ev) => Update();
+            window.Show();
         }
 
         private void BtnNewHouse_Click(object sender, RoutedEventArgs e)
         {
-
+            Window window = new CreateRealEstateWindow(EstateType.House);
+            window.Closed += (s, ev) => Update();
+            window.Show();
         }
 
         private void BtnNewLand_Click(object sender, RoutedEventArgs e)
         {
-
+            Window window = new CreateRealEstateWindow(EstateType.Land);
+            window.Closed += (s, ev) => Update();
+            window.Show();
         }
 
         private void BtnDelete_Click(object sender, RoutedEventArgs e)
         {
-
+            App.Context.RealEstateSets.Remove(LbRealEstate.SelectedItem as RealEstateSet);
+            App.Context.SaveChanges();
+            Update();
         }
 
         private void LbRealEstate_SelectionChanged(object sender, SelectionChangedEventArgs e)

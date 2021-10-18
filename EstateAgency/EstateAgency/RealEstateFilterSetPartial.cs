@@ -27,5 +27,16 @@ namespace EstateAgency
                 return "Unknown";
             }
         }
+        public EstateType TypeEstate
+        {
+            get
+            {
+                if (this.RealEstateFilterSet_ApartmentFilter != null)
+                    return EstateType.Apartment;
+                if (this.RealEstateFilterSet_HouseFilter != null)
+                    return EstateType.House;
+                return EstateType.Land;
+            }
+        }
     }
 }

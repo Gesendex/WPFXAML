@@ -53,7 +53,7 @@ namespace EstateAgency.Views
 
         private void BtnNew_Click(object sender, RoutedEventArgs e)
         {
-            Window window = new CreateAgentOrClient(PersonType.Agent);
+            Window window = new CreateAgentOrClientWindow(PersonType.Agent);
             window.Closed += (s, ev) => Update();
             window.Show();
         }

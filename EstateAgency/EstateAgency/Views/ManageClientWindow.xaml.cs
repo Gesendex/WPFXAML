@@ -61,17 +61,18 @@ namespace EstateAgency.Views
         }
         private void BtnNew_Click(object sender, RoutedEventArgs e)
         {
-            Window window = new CreateAgentOrClient(PersonType.Client);
+            Window window = new CreateAgentOrClientWindow(PersonType.Client);
             window.Closed += (s, ev) => Update();
             window.Show();
         }
 
         private void BtnEdit_Click(object sender, RoutedEventArgs e)
         {
+            
             if (BtnEdit.Content as string == "Edit")
             {
                 BtnEdit.Content = "Save";
-                foreach (var controll in SpEdit.Children)
+                foreach (object controll in SpEdit.Children)
                 {
                     if (controll is TextBox)
                         (controll as TextBox).IsReadOnly = false;
@@ -83,10 +84,10 @@ namespace EstateAgency.Views
                 foreach (var controll in SpEdit.Children)
                 {
                     if (controll is TextBox)
-                        (controll as TextBox).IsReadOnly = true;
+                       (controll as TextBox).IsReadOnly = true;
                 }
 
-                var curClient = App.Context.PersonSet_Client.Find((LbClients.SelectedItem as PersonSet_Client).Id);
+                PersonSet_Client curClient = App.Context.PersonSet_Client.Find((LbClients.SelectedItem as PersonSet_Client).Id);
                 curClient.Email = TbEmail.Text;
                 curClient.Phone = TbPhone.Text;
                 curClient.PersonSet.LastName = TbLastName.Text;

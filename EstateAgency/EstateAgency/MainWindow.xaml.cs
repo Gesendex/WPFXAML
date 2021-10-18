@@ -49,5 +49,11 @@ namespace EstateAgency
             var supliesWindow = new ManageSuppliesWindow();
             supliesWindow.Show();
         }
+
+        private void BtnDemands_Click(object sender, RoutedEventArgs e)
+        {
+            var demandWindow = new ManageDemandWindow();
+            demandWindow.Show();
+        }
     }
 }

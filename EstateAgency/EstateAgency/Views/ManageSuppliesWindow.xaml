@@ -19,7 +19,7 @@
             <StackPanel Orientation="Horizontal">
                 <StackPanel Width="150" Margin="10,5">
                     <TextBlock Text="Client" Style="{StaticResource TextBlockSPEl}"/>
-                    <ComboBox Name="CbClient">
+                    <ComboBox Name="CbClient" SelectionChanged="CbClient_SelectionChanged">
                         <ComboBox.ItemTemplate>
                             <DataTemplate >
                                 <TextBlock Text="{Binding PersonSet.FullName}"/>
@@ -29,7 +29,7 @@
                 </StackPanel>
                 <StackPanel Width="150" Margin="10,5">
                     <TextBlock Text="Agent" Style="{StaticResource TextBlockSPEl}"/>
-                    <ComboBox Name="CbAgent">
+                    <ComboBox Name="CbAgent" SelectionChanged="CbAgent_SelectionChanged">
                         <ComboBox.ItemTemplate>
                             <DataTemplate >
                                 <TextBlock Text="{Binding PersonSet.FullName}"/>
@@ -39,7 +39,7 @@
                 </StackPanel>
                 <StackPanel Width="100" Margin="10,5">
                     <TextBlock Text="RealEstate" Style="{StaticResource TextBlockSPEl}"/>
-                    <ComboBox Name="CbRealState">
+                    <ComboBox Name="CbRealState" SelectionChanged="CbRealState_SelectionChanged">
                         <ComboBoxItem Content="Not select"/>
                         <ComboBoxItem Content="Apartment"/>
                         <ComboBoxItem Content="House"/>
@@ -70,15 +70,17 @@
             <StackPanel Orientation="Horizontal" Margin="10,0">
                 <StackPanel Width="120" Margin="0,0,5,0">
                     <TextBlock Text="Min"/>
-                    <TextBox Style="{StaticResource TextBoxRealEstate}"/>
+                    <TextBox x:Name="TbMinPrice" Style="{StaticResource TextBoxRealEstate}"/>
                 </StackPanel>
                 <StackPanel Width="120">
                     <TextBlock Text="Max"/>
-                    <TextBox Style="{StaticResource TextBoxRealEstate}"/>
+                    <TextBox x:Name="TbMaxPrice" Style="{StaticResource TextBoxRealEstate}"/>
                 </StackPanel>
+                <Button Content="Filt" Name="BtnFilt" VerticalAlignment="Bottom" Margin="10,0" Style="{StaticResource ButtonRealEstate}" Click="BtnFilt_Click"/>
+
             </StackPanel>
             <CheckBox Content="Show supplies with deals" IsChecked="True" Margin="10,5,0,0"/>
-            <DataGrid Name="DgSupplies" IsReadOnly="True" AutoGenerateColumns="False" Margin="10" DockPanel.Dock="Top" Height="200" SelectionChanged="DgSupplies_SelectionChanged">
+            <DataGrid Name="DgSupplies" SelectionMode="Single" IsReadOnly="True" AutoGenerateColumns="False" Margin="10" DockPanel.Dock="Top" Height="200" SelectionChanged="DgSupplies_SelectionChanged">
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="RealEstate" Binding="{Binding RealEstateSet.Info}" />
                     <DataGridTextColumn Header="Price"  Binding="{Binding Price}"/>
@@ -87,9 +89,9 @@
                 </DataGrid.Columns>
             </DataGrid>
             <StackPanel Orientation="Horizontal" Margin="5,0">
-                <Button Content="New" Style="{StaticResource ButtonRealEstate}"/>
+                <Button Content="New" Style="{StaticResource ButtonRealEstate}" Click="Button_Click"/>
                 <Button Content="Search demand" Style="{StaticResource ButtonRealEstate}"/>
-                <Button Content="Delete" Style="{StaticResource ButtonRealEstate}"/>
+                <Button Content="Delete" Name="BtnDelete" Click="BtnDelete_Click" Style="{StaticResource ButtonRealEstate}" />
             </StackPanel>
         </StackPanel>
         <StackPanel Grid.Row="1" Grid.Column="1">

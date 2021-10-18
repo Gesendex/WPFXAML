@@ -13,7 +13,8 @@
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
         <StackPanel>
-            <ListBox Name="LbAgents" SelectionChanged="LbAgents_SelectionChanged"  Width="200" Margin="10" Height="360">
+            <ListBox Name="LbAgents" SelectionChanged="LbAgents_SelectionChanged"
+                     Width="200" Margin="10" Height="360">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <TextBlock Text="{Binding PersonSet.FullName}"/>

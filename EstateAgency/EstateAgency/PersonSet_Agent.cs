@@ -20,8 +20,6 @@ namespace EstateAgency
             this.DemandSets = new HashSet<DemandSet>();
             this.SupplySets = new HashSet<SupplySet>();
         }
-
-
     
         public int DealShare { get; set; }
         public int Id { get; set; }

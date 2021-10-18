@@ -64,6 +64,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DemandPartial.cs" />
+    <Compile Include="EstateType.cs" />
     <Compile Include="PersonPartial.cs" />
     <Compile Include="DB.Context.cs">
       <AutoGen>True</AutoGen>
@@ -122,17 +124,27 @@
     <Compile Include="RealEstateSet_Land.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
+    <Compile Include="SearchEngine.cs" />
     <Compile Include="SupplySet.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
-    <Compile Include="Views\CreateAgentOrClient.xaml.cs">
-      <DependentUpon>CreateAgentOrClient.xaml</DependentUpon>
+    <Compile Include="Views\CreateAgentOrClientWindow.xaml.cs">
+      <DependentUpon>CreateAgentOrClientWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CreateRealEstateWindow.xaml.cs">
+      <DependentUpon>CreateRealEstateWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CreateSupplieWindow.xaml.cs">
+      <DependentUpon>CreateSupplieWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\ManageAgentWindow.xaml.cs">
       <DependentUpon>ManageAgentWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\ManageClientWindow.xaml.cs">
       <DependentUpon>ManageClientWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ManageDemandWindow.xaml.cs">
+      <DependentUpon>ManageDemandWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\ManageRealEstateWindow.xaml.cs">
       <DependentUpon>ManageRealEstateWindow.xaml</DependentUpon>
@@ -152,7 +164,15 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Views\CreateAgentOrClient.xaml">
+    <Page Include="Views\CreateAgentOrClientWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CreateRealEstateWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CreateSupplieWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -161,6 +181,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\ManageClientWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ManageDemandWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
