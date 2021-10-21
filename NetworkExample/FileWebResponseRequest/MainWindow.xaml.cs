@@ -40,12 +40,11 @@ namespace FileWebResponseRequest
 
         private void writeFile_Click(object sender, RoutedEventArgs e)
         {
-            string filename = txb_fileuri.Text;
-            FileWebRequest request = (FileWebRequest)WebRequest.Create(filename);
-
-            using (StreamReader sr = new StreamReader(request.GetResponse().GetResponseStream()))
+            WebRequest request = WebRequest.Create(txb_writefile.Text);
+            request.Method = "PUT";
+            using (StreamWriter sw = new StreamWriter(request.GetRequestStream()))
             {
-                txb_fileContent.Text = sr.ReadToEnd();
+                sw.Write(txb_fileContent.Text);
             }
         }
     }
